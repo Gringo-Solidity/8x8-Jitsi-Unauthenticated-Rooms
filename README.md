@@ -51,3 +51,23 @@ Although marked as duplicate, this submission independently discovered and docum
 - Discover authentication flaws via URL predictability
 - Validate findings without automated tools
 - Prepare formal bug bounty submissions with evidence
+
+##  Screenshots
+
+ Proof of unauthenticated access to public/internal rooms:
+
+-  Entered `/marketing` room without login  
+  ![Entered marketing](screenshots/entered-marketing.png)
+
+-  Chat interface accessible without auth  
+  ![Chat test](screenshots/test-chat.png)
+
+-  Room controls active (participants, mute, etc.)  
+  ![Room controls](screenshots/room-controls.png)
+
+- Entered `/dev` room unauthenticated  
+  ![Dev room open](screenshots/open-dev-room.png)
+
+-  Visible PIN before login (risk of leakage)  
+  ![Public PIN](screenshots/public-pin-visible.png)
+
