@@ -56,18 +56,16 @@ Although marked as duplicate, this submission independently discovered and docum
 
  Proof of unauthenticated access to public/internal rooms:
 
--  Entered `/marketing` room without login  
-  ![Entered marketing](screenshots/entered-marketing.png)
+IMG_0336 - entered marketing.png.PNG
 
--  Chat interface accessible without auth  
-  ![Chat test](screenshots/test-chat.png)
+IMG_0338 - test gringo chat.png.PNG
 
--  Room controls active (participants, mute, etc.)  
-  ![Room controls](screenshots/room-controls.png)
+IMG_0341 - 8x8 SLA claim.png.PNG
 
-- Entered `/dev` room unauthenticated  
-  ![Dev room open](screenshots/open-dev-room.png)
+IMG_0342 - room controls shown.png.PNG
 
--  Visible PIN before login (risk of leakage)  
-  ![Public PIN](screenshots/public-pin-visible.png)
+IMG_0344 - disconnected proof.png.PNG
 
+IMG_0345 - public PIN visible.png.PNG
+
+IMG_0346 - open dev room.png.PNG
