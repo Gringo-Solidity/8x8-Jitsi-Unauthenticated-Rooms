@@ -56,16 +56,23 @@ Although marked as duplicate, this submission independently discovered and docum
 
  Proof of unauthenticated access to public/internal rooms:
 
-IMG_0336 - entered marketing.png.PNG
+### 1. Entered "Marketing" room
+![Entered marketing](screenshots/IMG_0336%20-%20entered%20marketing.png.PNG)
 
-IMG_0338 - test gringo chat.png.PNG
+### 2. Chat message sent ("Test Gringo")
+![Test Gringo chat](screenshots/IMG_0338%20-%20test%20gringo%20chat.png.PNG)
 
-IMG_0341 - 8x8 SLA claim.png.PNG
+### 3. Room controls visible without login
+![Room controls](screenshots/IMG_0342%20-%20room%20controls%20shown.png.PNG)
 
-IMG_0342 - room controls shown.png.PNG
+### 4. Disconnected screen
+![Disconnected](screenshots/IMG_0344%20-%20disconnected%20proof.png.PNG)
 
-IMG_0344 - disconnected proof.png.PNG
+### 5. Public PIN exposed
+![Public PIN](screenshots/IMG_0345%20-%20public%20PIN%20visible.png.PNG)
 
-IMG_0345 - public PIN visible.png.PNG
+### 6. Entered "Dev" room unauthenticated
+![Open Dev Room](screenshots/IMG_0346%20-%20open%20dev%20room.png.PNG)
 
-IMG_0346 - open dev room.png.PNG
+### 7. Entered "Support" room unauthenticated
+![Support Room](screenshots/IMG_0341%20-%20support%20room%20entered.png.PNG)
